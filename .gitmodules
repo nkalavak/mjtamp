@@ -1,0 +1,3 @@
+[submodule "external/mjpl"]
+	path = external/mjpl
+	url = git@github.com:adlarkin/mjpl.git
