@@ -1,3 +1,6 @@
 [submodule "external/mjpl"]
 	path = external/mjpl
 	url = git@github.com:adlarkin/mjpl.git
+[submodule "external/pddlstream"]
+	path = external/pddlstream
+	url = https://github.com/caelan/pddlstream.git
